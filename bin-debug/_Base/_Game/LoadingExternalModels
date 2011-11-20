@@ -1,0 +1,33 @@
+import away3d.containers.*;
+import away3d.core.base.*;
+import away3d.core.utils.*;
+import away3d.events.*;
+import away3d.exporters.*;
+import away3d.loaders.*;
+import flash.system.*;
+import flash.events.*;
+import flash3dbook.ch04.*;
+
+public class LoadingExternalModels extends Chapter04SampleBase
+{
+	private var _loader:LoaderCube;
+	public function LoadingExternalModels ()
+	{
+		
+	}
+	protected override function _createScene() : void
+	{
+		_loader = new LoaderCube();
+		
+		var url : String = '../../assets/ch04/monkey.3ds';
+		_loader.addEventListener(Loader3DEvent.LOAD_SUCCESS, _onSuccess);
+		_loader.loadGeometry(url, new Max3DS());
+		_loader.scale(10);
+		_view.scene.addChild(loader);
+	}
+	protected function _onSuccess(ev : Loader3DEvent) : void
+	{
+		trace('Finished loading!')
+	}
+}
+}

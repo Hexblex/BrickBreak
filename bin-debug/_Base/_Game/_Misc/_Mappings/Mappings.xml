@@ -1,0 +1,180 @@
+<Mappings>
+	<Materials>
+		<Blood>
+			<Healthy>
+				<Texture burn='0' freeze='0' melt='0' soak='0'>0</Texture>	
+				<Texture burn='0' freeze='1' melt='0' soak='0'>1</Texture>
+				<Texture burn='0' freeze='0' melt='1' soak='0'>2</Texture>
+				<Texture burn='0' freeze='1' melt='1' soak='0'>3</Texture>
+				<Texture burn='1' freeze='0' melt='0' soak='0'>4</Texture>
+				<Texture burn='1' freeze='1' melt='0' soak='0'>5</Texture>
+				<Texture burn='0' freeze='0' melt='0' soak='1'>6</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='1'>7</Texture>	  
+			</Healthy> 
+			<Damaged>
+			</Damaged>
+			<Fatal>
+			</Fatal>
+		</Blood>
+		<Brick>
+			<Healthy>
+				<Texture burn='0' freeze='0' melt='0' soak='0'>9</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='0'>10</Texture>
+				<Texture burn='0' freeze='0' melt='1' soak='0'>11</Texture>
+				<Texture burn='0' freeze='1' melt='1' soak='0'>12</Texture>
+				<Texture burn='0' freeze='0' melt='0' soak='1'>13</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='1'>14</Texture>
+				<Texture burn='1' freeze='0' melt='0' soak='0'>17</Texture>
+			</Healthy>
+			<Damaged>
+				<Texture burn='0' freeze='0' melt='0' soak='0'>15</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='0'>16</Texture>
+				<Texture burn='1' freeze='0' melt='0' soak='0'>17</Texture>
+				<Texture burn='1' freeze='1' melt='0' soak='0'>18</Texture>
+				<Texture burn='0' freeze='0' melt='1' soak='0'>19</Texture>
+				<Texture burn='0' freeze='1' melt='1' soak='0'>20</Texture>
+				<Texture burn='0' freeze='0' melt='0' soak='1'>21</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='1'>22</Texture>									
+			</Damaged>
+			<Fatal>
+				<Texture burn='0' freeze='0' melt='0' soak='0'>23</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='0'>24</Texture>
+				<Texture burn='1' freeze='0' melt='0' soak='0'>25</Texture>
+				<Texture burn='1' freeze='1' melt='0' soak='0'>26</Texture>
+				<Texture burn='0' freeze='0' melt='1' soak='0'>27</Texture>
+				<Texture burn='0' freeze='1' melt='1' soak='0'>28</Texture>
+				<Texture burn='0' freeze='0' melt='0' soak='1'>29</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='1'>30</Texture>	
+			</Fatal>
+		</Brick>
+		<Cardboard>
+			<Healthy> 
+				<Texture burn='0' freeze='0' melt='0' soak='0'>32</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='0'>33</Texture>
+				<Texture burn='1' freeze='0' melt='0' soak='0'>34</Texture>
+				<Texture burn='1' freeze='1' melt='0' soak='0'>35</Texture>
+				<Texture burn='0' freeze='0' melt='0' soak='1'>36</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='1'>37</Texture>
+				<Texture burn='0' freeze='0' melt='1' soak='0'>38</Texture>
+				<Texture burn='0' freeze='1' melt='1' soak='0'>39</Texture>	
+			</Healthy>
+			<Damaged>
+			</Damaged>
+			<Fatal>
+				<Texture burn='0' freeze='0' melt='0' soak='0'>40</Texture>	
+				<Texture burn='0' freeze='1' melt='0' soak='0'>41</Texture>
+				<Texture burn='1' freeze='0' melt='0' soak='0'>42</Texture>
+				<Texture burn='1' freeze='1' melt='0' soak='0'>43</Texture>
+				<Texture burn='0' freeze='0' melt='0' soak='1'>44</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='1'>45</Texture>
+				<Texture burn='0' freeze='0' melt='1' soak='0'>46</Texture>
+				<Texture burn='0' freeze='1' melt='1' soak='0'>47</Texture>
+			</Fatal>
+		</Cardboard>
+		<Cement>
+			<Healthy>
+				<Texture burn='0' freeze='0' melt='0' soak='0'>49</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='0'>50</Texture>
+				<Texture burn='0' freeze='0' melt='0' soak='1'>51</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='1'>52</Texture>
+				<Texture burn='0' freeze='0' melt='1' soak='0'>53</Texture>
+				<Texture burn='0' freeze='1' melt='1' soak='0'>54</Texture>
+			</Healthy>
+			<Damaged>
+			</Damaged>
+			<Fatal>
+			</Fatal>
+		</Cement>
+		<Crystal>
+			<Healthy>
+				<Texture burn='0' freeze='0' melt='0' soak='0'>55</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='0'>56</Texture>
+				<Texture burn='0' freeze='0' melt='1' soak='0'>57</Texture>
+				<Texture burn='0' freeze='1' melt='1' soak='0'>58</Texture>	 
+			</Healthy>
+			<Damaged>
+			</Damaged>
+			<Fatal>
+				<Texture burn='0' freeze='0' melt='0' soak='0'>59</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='0'>60</Texture>
+				<Texture burn='0' freeze='0' melt='1' soak='0'>61</Texture>
+				<Texture burn='0' freeze='1' melt='1' soak='0'>62</Texture>
+			</Fatal>
+		</Crystal>
+		<Glass>
+			<Healthy>
+				<Texture burn='0' freeze='0' melt='0' soak='0'>64</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='0'>65</Texture>
+				<Texture burn='0' freeze='0' melt='0' soak='1'>66</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='1'>67</Texture>
+				<Texture burn='0' freeze='0' melt='1' soak='0'>68</Texture>
+				<Texture burn='0' freeze='1' melt='1' soak='0'>69</Texture>
+			</Healthy>
+			<Damaged>
+			</Damaged>
+			<Fatal>
+				<Texture burn='0' freeze='0' melt='0' soak='0'>70</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='0'>71</Texture>
+				<Texture burn='0' freeze='0' melt='1' soak='0'>72</Texture>
+				<Texture burn='0' freeze='1' melt='1' soak='0'>73</Texture>
+				<Texture burn='0' freeze='0' melt='0' soak='1'>74</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='1'>75</Texture>
+			</Fatal>
+		</Glass>
+		<Multi>106</Multi>
+		<Shield>
+			<Blood>8</Blood>
+			<Brick>31</Brick>
+			<Cardboard>31</Cardboard>
+			<Crystal>63</Crystal>
+			<Glass>76</Glass>
+			<Wood>107</Wood>
+		</Shield>
+		<Titanium>
+			<Healthy>
+				<Texture burn='0' freeze='0' melt='0' soak='0'>77</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='0'>78</Texture> 
+			</Healthy>
+			<Damaged>
+				<Texture burn='0' freeze='0' melt='0' soak='0'>79</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='0'>80</Texture>
+			</Damaged>
+			<Fatal>
+				<Texture burn='0' freeze='0' melt='0' soak='0'>81</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='0'>82</Texture>
+			</Fatal>
+		</Titanium>
+		<Wood>
+			<Healthy>
+				<Texture burn='0' freeze='0' melt='0' soak='0'>83</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='0'>84</Texture>
+				<Texture burn='1' freeze='0' melt='0' soak='0'>85</Texture>
+				<Texture burn='1' freeze='1' melt='0' soak='0'>86</Texture>
+				<Texture burn='0' freeze='0' melt='0' soak='1'>87</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='1'>88</Texture>
+				<Texture burn='0' freeze='0' melt='1' soak='0'>89</Texture>
+				<Texture burn='0' freeze='1' melt='1' soak='0'>90</Texture>
+			</Healthy>
+			<Damaged>
+				<Texture burn='0' freeze='0' melt='0' soak='0'>91</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='0'>92</Texture>
+				<Texture burn='0' freeze='0' melt='1' soak='0'>93</Texture>
+				<Texture burn='0' freeze='1' melt='1' soak='0'>94</Texture>
+				<Texture burn='0' freeze='0' melt='0' soak='1'>95</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='1'>96</Texture>
+				<Texture burn='1' freeze='0' melt='0' soak='0'>97</Texture>
+				<Texture burn='1' freeze='1' melt='0' soak='0'>98</Texture>
+			</Damaged>
+			<Fatal>
+				<Texture burn='0' freeze='0' melt='0' soak='0'>99</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='0'>100</Texture>
+				<Texture burn='1' freeze='0' melt='0' soak='0'>101</Texture>
+				<Texture burn='1' freeze='1' melt='0' soak='0'>102</Texture>
+				<Texture burn='0' freeze='0' melt='0' soak='1'>103</Texture>
+				<Texture burn='0' freeze='1' melt='0' soak='1'>104</Texture>
+				<Texture burn='0' freeze='0' melt='1' soak='0'>105</Texture>
+				<Texture burn='0' freeze='1' melt='1' soak='0'>104</Texture>
+			</Fatal>
+		</Wood>
+	</Materials>
+</Mappings>
